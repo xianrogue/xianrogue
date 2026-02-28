@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome to xianrogue's space 🌌
+
+Hi there! I'm **xianrogue**, a developer and strategist blending creativity with technology.  
+- 🔧 Building apps like a Noise Pollution Map  
+- ♟️ Exploring psychological battles through chess and anime-style arcs  
+- 🌱 Currently learning Japanese step by step  
+
+Check out my projects and feel free to connect!
 
 <!--
 **xianrogue/xianrogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
